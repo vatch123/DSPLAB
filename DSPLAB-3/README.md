@@ -254,7 +254,7 @@ float* autocorr(float* x, int m){
 * ***Plots for Speech signal***
 
 | Speech and Moving Average Filter| Autocorrelation of filtered signal|
-| ------------- |:-------------:| -----:|
+| ------------- |:-------------:|
 | <img src="images/speech.gif" alt="speech" style="width:100%">  | <img src="images/speech_acf.gif" alt="speech_acf" style="width:100%">|
 
 
