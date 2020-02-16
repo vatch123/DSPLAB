@@ -133,7 +133,7 @@ I also wrote a MATLAB script doing the same set of operations for validation pur
 
 The various plot obtained through MATLAB is shown below:
 
-<img src="images/mat.jpg" alt="mat" style="width:100%">| 
+<img src="images/mat.jpg" alt="mat" style="width:100%">
 
 
 * ***Calculated respiratory rate***
