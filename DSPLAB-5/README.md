@@ -1,4 +1,4 @@
-# Digital Signal Processing Lab - 4
+# Digital Signal Processing Lab - 5
 10th February 2020
 
 In this experiment we will try to estimate the respiratory rate by using Fast Fourier Transform method to seperate the respiratory signal embeddedd in the PPG signal.
