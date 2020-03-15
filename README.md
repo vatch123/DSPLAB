@@ -10,3 +10,4 @@ All the codes and documentation regarding the work done in our digital signal pr
 * [Week 3](./DSPLAB-3) - Use of autocorrelation function in signal processing
 * [Week 4](./DSPLAB-4) - Discrete Fourier Transform
 * [Week 5](./DSPLAB-5) - Fast Fourier Transform
+* [Week 6](./DSPLAB-6) - High Pass Filter using Pole-Zero placement method
